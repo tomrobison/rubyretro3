@@ -10,6 +10,6 @@ We can work out some merge conflicts
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-Here is some text
+Altered Text
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
