@@ -8,6 +8,8 @@ Enter Text in between the line of a's
 
 We can work out some merge conflicts
 
+rubyretrorubyretrorubyretro
+
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 Here is some text
