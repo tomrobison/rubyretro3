@@ -1,4 +1,11 @@
 rubyretro3
 ==========
 
-Ruby Retro 3
+Ruby Retro3
+
+
+Enter Text in between the line of a's
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
